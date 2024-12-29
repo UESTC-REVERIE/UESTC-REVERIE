@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @UESTC-REVERIE
-- 👀 Unity Project now
-- 🌱 C#/C/C++
+- 👋 uestc-reverie.github.io
 - 📫 reverie.phm@outlook.com phm20180202@gmail.com 614158101@qq.com
 
 <!---
