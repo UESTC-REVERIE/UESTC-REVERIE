@@ -1,4 +1,4 @@
-- 👋 uestc-reverie.github.io
+- 👋 [My Page](https://uestc-reverie.github.io/)
 - 📫 reverie.phm@outlook.com phm20180202@gmail.com 614158101@qq.com
 
 <!---
